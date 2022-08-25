@@ -1,7 +1,7 @@
 # flow3-NodeRed
 Este repositorio contiene el tercer ejercicio de NodeRed para el curso Internet de las Cosas de Código IoT
 # Introducción
-El flow 3 representa el tercer ejercicio a realizar con NodeRed. Este ejercicio consiste únicamente en conectar un nodo Inject con un nodo Debug y  un dashboard para así automatizarlo y que genere un TimeStamp cada 1 segundo. Esta acción permite demostrar el uso de la pestaña Debug.
+El flow 3 representa el tercer ejercicio a realizar con NodeRed. Este ejercicio consiste únicamente en conectar un nodo Inject con un nodo Debug una funcion y  un dashboard para así automatizarlo y que genere un TimeStamp cada 1 segundo. Esta acción permite demostrar el uso de la pestaña Debug.
 # Material Necesario
 Para realizar este flow necesitas lo siguiente
 
@@ -57,7 +57,11 @@ A continuación puede verse una vista previa del resultado de este flow.![Captur
 
 
 
-https://user-images.githubusercontent.com/111370977/186718435-d713d90d-89f2-4791-bd90-c43dc65bfb70.mp4
+
+
+
+
+https://user-images.githubusercontent.com/111370977/186721904-98e87cfc-53ed-4a11-9480-d6bc4d8f8ff4.mp4
 
 
 
